@@ -36,6 +36,7 @@ Display all the elements in a queue using queue functions:
 
 move_to_rear function, moving 1 to the end of the queue:
 
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/8f1c976e-a0a7-4626-9544-efd07ceffb55)
 ![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/504a2fad-066a-4ec2-98bb-a198b1fc2a4a)
 ![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/e78d40bb-9a34-423d-b0e3-995496bbb0e9)
 
@@ -56,3 +57,17 @@ Result:
 ![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/baa11941-a9f8-4ad5-a8de-f766a6bfc4a3)
 
 
+## Modified Insertion Sort
+The function:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/e6f74d0a-aa29-4cf2-95cb-e77417efbaa8)
+
+
+Implementation in main:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/e0524cda-4b67-493d-b753-af2b53a15622)
+
+
+Result:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/e69f0098-7c5a-413a-b446-5e95f62d381d)
