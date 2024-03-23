@@ -32,3 +32,27 @@ Display all the elements in a queue using queue functions:
 
 ![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/64293c2f-4402-4148-8e4b-8b9f48d0d7e6)
 ![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/880cf650-1a8f-4f4a-89c2-e015a96aa2d3)
+
+
+move_to_rear function, moving 1 to the end of the queue:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/504a2fad-066a-4ec2-98bb-a198b1fc2a4a)
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/e78d40bb-9a34-423d-b0e3-995496bbb0e9)
+
+
+## Modified Recursive Function
+The function:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/7dc525c3-2c3f-4480-9847-3a0b52a37244)
+
+
+Implementation in main:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/bd5adacd-b4a7-4184-a8f1-d719ceecebe2)
+
+
+Result:
+
+![image](https://github.com/YuqingCai7/CS303Assignment3/assets/143641552/baa11941-a9f8-4ad5-a8de-f766a6bfc4a3)
+
+
